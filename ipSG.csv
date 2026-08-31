@@ -1,0 +1,11 @@
+IP地址,端口号,网络延迟,下载速度,数据中心,落地区域,地区,城市
+172.64.145.22,443,73ms,22.89MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.2.136,443,74ms,27.60MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.6.226,443,75ms,23.64MB/s,SIN,SG,Asia Pacific,Singapore
+104.18.43.12,443,73ms,24.99MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.8.251,443,74ms,25.17MB/s,SIN,SG,Asia Pacific,Singapore
+172.64.144.182,443,76ms,28.39MB/s,SIN,SG,Asia Pacific,Singapore
+172.64.38.223,443,75ms,26.55MB/s,SIN,SG,Asia Pacific,Singapore
+108.162.195.121,443,75ms,27.85MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.34.247,443,73ms,26.00MB/s,SIN,SG,Asia Pacific,Singapore
+172.64.33.50,443,74ms,27.84MB/s,SIN,SG,Asia Pacific,Singapore
